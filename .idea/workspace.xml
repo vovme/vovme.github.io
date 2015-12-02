@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b553c624-ca07-43c6-b6d1-9f6badb1f79c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/github-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/params.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b553c624-ca07-43c6-b6d1-9f6badb1f79c" name="Default" comment="" />
     <ignored path="saltfactory.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -233,12 +225,12 @@
       <option name="number" value="Default" />
       <updated>1449020362768</updated>
       <workItem from="1449020364184" duration="52000" />
-      <workItem from="1449021047082" duration="537000" />
+      <workItem from="1449021047082" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="589000" />
+    <option name="totallyTimeSpent" value="664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1640" height="1027" extended-state="0" />
