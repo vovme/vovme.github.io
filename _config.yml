@@ -1,11 +1,11 @@
-title: saltfactory's blog
-email: saltfactory@gmail.com
-description: "하이브리드 모바일 앱, HTML5, 웹 프로그래밍, 데이터베이스, 운영체제, 프로그래밍 언어 그리고 IT 기술에 관한 연구 내용에 관한 saltfactory's blog 입니다."
+title: vov's blog
+email: master.vov.me@gmail.com
+description: "초보 아빠의 좌충우돌 육아이야기 입니다."
 base_url: ""
-url: "http://blog.saltfactory.net"
+url: "http://blog.vov.me"
 author :
-  name : saltfactory
-  email : saltfactory@gmail.com
+  name : vov
+  email : master.vov.me@gmail.com
 
 encoding: utf-8
 excerpt_separator : <!--more-->
@@ -14,14 +14,14 @@ categories_dir: categories
 
 paginate: 5
 
-google_analytics : 'UA-8647285-2'
+google_analytics : 'UA-31506558-5'
 
-twitter_username: saltfactory
-github_username:  saltfactory
-facebook_username: salthub
-facebook_admins_id: "1825058169"
-facebook_app_id: "271162092926857"
-disqus_shortname: saltfactoryblog
+#twitter_username: saltfactory
+#github_username:  saltfactory
+#facebook_username: salthub
+#facebook_admins_id: "1825058169"
+#facebook_app_id: "271162092926857"
+#disqus_shortname: saltfactoryblog
 
 comments:
   disqus: true
