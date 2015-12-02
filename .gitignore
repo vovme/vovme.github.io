@@ -1,0 +1,99 @@
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+## Specific to RubyMotion:
+.dat*
+.repl_history
+build/
+
+## Documentation cache and generated files:
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+## Environment normalisation:
+/.bundle/
+/lib/bundler/man/
+
+# for a library or gem, you might want to ignore these files since the code is
+# intended to run in multiple environments; otherwise, check them in:
+# Gemfile.lock
+# .ruby-version
+# .ruby-gemset
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+.DS_Store
+*.swp
+
+_site/
+.sass-cache/
+.jekyll-metadata
+backup/
+
+
+
+######################
+# Folders 
+######################
+target/
+.idea/
+.mvn/
+log/
+
+
+######################
+# Windows
+######################
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# OSX
+######################
+
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+######################
+# Eclipse
+######################
+
+.project
+.buildpath
+.classpath
+.springBeans
+build.xml
+buildProduct.xml
+.settings/
+.externalToolBuilders/
+
+
+#####################
+# IntelliJ
+#####################
+
+*.iml
+*.ipr
+*.iws
