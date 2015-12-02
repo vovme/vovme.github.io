@@ -21,7 +21,7 @@
     {% if page.images.title %}
       {% assign meta_image = page.images.title %}
     {% else %}
-      {% assign meta_image = "https://flic.kr/p/AMtHGq" %}
+      {% assign meta_image = "https://farm6.staticflickr.com/5824/22830780724_b80325a623_b.jpg" %}
     {% endif %}
 
     <!-- web default -->
@@ -105,8 +105,6 @@
 
     <!-- canonical -->
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <!-- RDF -->
-    <link rel="meta" type="application/rdf+xml" title="FOAF" href="/assets/foaf.rdf" />
 
     {% if site.google_analytics %}
       {% include google_analytics.html %}
