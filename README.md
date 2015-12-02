@@ -1,21 +1,11 @@
-## blog.saltfactory.net
+## blog.vov.me
 
 
-http://blog.saltfactory.net 를 위한 Jekyll 소스입니다.
+http://blog.vov.me 를 위한 Jekyll 소스입니다.
 
 원칙적으로 모든 소스코드는 **라이센스**에 의해 보호되며 자유롭게 공유됩니다.
 
 템플릿과 플러그인 소스의 보호권리는 원제작자에게 있습니다.
-
-## 연구원 소개
-
-* 작성자 : [송성광](http://about.me/saltfactory) 개발 연구원
-* 블로그 : http://blog.saltfactory.net
-* 이메일 : [saltfactory@gmail.com](mailto:saltfactory@gmail.com)
-* 트위터 : [@saltfactory](https://twitter.com/saltfactory)
-* 페이스북 : https://facebook.com/salthub
-* 연구소 : [하이브레인넷](http://www.hibrain.net) 부설연구소
-* 연구실 : [창원대학교 데이터베이스 연구실](http://dblab.changwon.ac.kr)
 
 
 ## License
