@@ -1,6 +1,6 @@
 title: vov's blog
 email: master.vov.me@gmail.com
-description: "초보 아빠의 좌충우돌 육아이야기 입니다."
+description: "초보 아빠의 좌충우돌 육아 이야기 입니다."
 base_url: ""
 url: "http://blog.vov.me"
 author :
@@ -20,8 +20,8 @@ google_analytics : 'UA-31506558-5'
 #github_username:  saltfactory
 #facebook_username: salthub
 #facebook_admins_id: "1825058169"
-#facebook_app_id: "271162092926857"
-#disqus_shortname: saltfactoryblog
+facebook_app_id: "152984578390771"
+disqus_shortname: vovme
 
 comments:
   disqus: true
