@@ -4,12 +4,8 @@ title: GuestBook
 permalink: /guestbook/
 comments : true
 
-disqus_identifier: http://blog.saltfactory.net/guestbook
+disqus_identifier: http://blog.vov.me/guestbook
 ---
-
-> 연구내용 및 기타 의견을 남겨주시면 연구활동에 도움이 됩니다.
-
-또한 [기부(Doante)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=NR99D2BERKK8Y&lc=KR&item_name=donate%2esaltfactory%2enet&item_number=net%2esaltfactory%2edonate&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)로 연구활동에 도움을 주실 수 있습니다.
 
 <p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
