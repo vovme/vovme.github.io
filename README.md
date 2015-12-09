@@ -2,7 +2,7 @@
 
 http://blog.vov.me 를 위한 Jekyll 소스입니다.
 
-원칙적으로 모든 소스코드는 **라이센스**에 의해 보호되며 자유롭게 공유됩니다.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />모든 저작물(컨텐츠)은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0 국제 라이선스</a>에 따라 이용할 수 있습니다.
 
 템플릿과 플러그인 소스의 보호권리는 원제작자에게 있습니다.
 
