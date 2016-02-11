@@ -2,7 +2,7 @@ title: vov's blog
 email: master.vov.me@gmail.com
 description: "초보 아빠의 좌충우돌 육아 이야기 입니다."
 base_url: ""
-url: "http://blog.vov.me"
+#url: "http://blog.vov.me"
 author :
   name : vov
   email : master.vov.me@gmail.com
